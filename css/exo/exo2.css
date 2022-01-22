@@ -1,0 +1,19 @@
+body{
+    background-color: hsl(210, 46%, 95%);
+}
+.box img{
+    width: 300px;
+}
+.box{    
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+   .txt{
+    width: 50%;
+    height: 45%;
+    font-family: 'Manrope', sans-serif;
+    justify-content: space-around ;
+   }
